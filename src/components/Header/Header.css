@@ -1,0 +1,40 @@
+.header-top{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    width: 90%;
+    margin: 0 auto;
+}
+.nav-item{
+    margin-right: 10px;
+    padding: 10px;
+    color:black;
+    text-decoration: none;
+    margin-top: 37px;
+}
+
+.logo{
+    margin-top: 27px;
+}
+.logo img{
+    width: 70px;
+}
+.logo h3{
+    display: inline-block;
+    font-weight: bold;
+    color: #1e78c1;
+    margin: 15px;
+}
+.nav-btn{
+    background-color: #1e78c1;
+    color: #fff;
+    border: none;
+    padding: 7px 14px;
+    font-size: 14px;
+    margin-top: -6px;
+}
+.nav-btn:hover{
+    background-color: white;
+    border: 1px solid #1e78c1;
+    color: black;
+}

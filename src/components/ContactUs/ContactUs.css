@@ -1,0 +1,24 @@
+.contact-container{
+    margin: 55px;
+    text-align: left;
+}
+.contact-title{
+    font-weight: 700;
+    color: #1e78c1;
+    margin-bottom: 20px;
+}
+.form p{
+    margin-top:20px;
+    margin-bottom:5px;
+}
+.form input{
+    width:67%;
+    padding:2px;
+}
+.submit-btn{
+    background-color: #1e78c1;
+    color: #fff;
+    border: none;
+    padding: 11px 27px;
+    font-size: 15px;
+}

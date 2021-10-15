@@ -1,0 +1,48 @@
+.banner{
+    background-image: url("../../images/bg5.jpg");
+    height: 520px;
+    width: 100%;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.banner-text{
+    text-align: left;
+    position: relative;
+    top: 44%;
+    left: 30%;
+}
+.banner-text h1{
+    font-weight: 800;
+    font-size: 55px;
+    color: #1e78c1;
+    margin-bottom: 10px;
+}
+.banner-text p{
+    font-weight: 100;
+    margin-bottom: 34px;
+}
+.banner-btn{
+    background-color: #1e78c1;
+    color: #fff;
+    border: none;
+    padding: 7px 14px;
+    font-size: 14px;
+}
+.banner-btn:hover{
+    background-color: white;
+    border: 1px solid #1e78c1;
+    color: black;
+}
+.banner-bottom{
+    width:80%;
+    margin: 0 auto;
+}
+.single-banner-bottom{
+    background-color: #161e2ceb;
+    color: white;
+    padding: 15px;
+    margin-top: 40px;
+    border-radius: 5px;
+}

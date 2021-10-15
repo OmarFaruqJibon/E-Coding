@@ -1,0 +1,10 @@
+.aboutUs-container{
+    display: flex;
+    align-items: center;
+    margin: 55px;
+}
+.about h1{
+    font-weight: 700;
+    color: #1e78c1;
+    margin-bottom: 20px;
+}
